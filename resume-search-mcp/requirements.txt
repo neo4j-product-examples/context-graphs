@@ -1,0 +1,4 @@
+# requirements.txt
+mcp[cli]
+httpx
+python-dotenv
